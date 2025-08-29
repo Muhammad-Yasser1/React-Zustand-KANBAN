@@ -4,13 +4,13 @@
       "id": 2,
       "title": "Implement authentication",
       "description": "Add login and signup functionality",
-      "column": "backlog"
+      "column": "review"
     },
     {
       "id": 8,
       "title": "Optimize performance",
-      "description": "Improve load times and responsiveness",
-      "column": "backlog"
+      "description": "Improve load timsssses and responsiveness",
+      "column": "review"
     }
   ]
 }
